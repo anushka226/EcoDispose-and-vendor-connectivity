@@ -1,0 +1,122 @@
+{
+  "Wires": {
+    "wasteType": "Wire E-Waste",
+    "price": "₹40/kg",
+    "vendorRate": "₹35/kg",
+    "recyclable": [
+      "Copper wire",
+      "Aluminium strands",
+      "Plastic coating"
+    ],
+    "nonRecyclable": [
+      "Burnt insulation",
+      "Damaged rubber"
+    ]
+  },
+
+  "Speaker": {
+    "wasteType": "Speaker E-Waste",
+    "price": "₹90/kg",
+    "vendorRate": "₹75/kg",
+    "recyclable": [
+      "Magnet",
+      "Copper coil",
+      "Plastic body"
+    ],
+    "nonRecyclable": [
+      "Broken diaphragm",
+      "Damaged foam"
+    ]
+  },
+
+  "Router": {
+    "wasteType": "Router E-Waste",
+    "price": "₹110/kg",
+    "vendorRate": "₹95/kg",
+    "recyclable": [
+      "Circuit board",
+      "Copper wiring",
+      "Plastic shell"
+    ],
+    "nonRecyclable": [
+      "Damaged antenna",
+      "Burnt IC chips"
+    ]
+  },
+
+  "Printer": {
+    "wasteType": "Printer E-Waste",
+    "price": "₹150/kg",
+    "vendorRate": "₹130/kg",
+    "recyclable": [
+      "Metal rods",
+      "Plastic body",
+      "Circuit board"
+    ],
+    "nonRecyclable": [
+      "Ink residue",
+      "Damaged rollers"
+    ]
+  },
+
+  "Mouse": {
+    "wasteType": "Mouse E-Waste",
+    "price": "₹60/kg",
+    "vendorRate": "₹50/kg",
+    "recyclable": [
+      "Plastic shell",
+      "Copper wire",
+      "Circuit board"
+    ],
+    "nonRecyclable": [
+      "Rubber pads",
+      "Broken buttons"
+    ]
+  },
+
+  "Laptop": {
+    "wasteType": "Laptop E-Waste",
+    "price": "₹220/kg",
+    "vendorRate": "₹190/kg",
+    "recyclable": [
+      "Battery",
+      "Motherboard",
+      "Screen glass",
+      "Aluminium body"
+    ],
+    "nonRecyclable": [
+      "Damaged LCD chemicals",
+      "Broken plastic frame"
+    ]
+  },
+
+  "Keyboard": {
+    "wasteType": "Keyboard E-Waste",
+    "price": "₹70/kg",
+    "vendorRate": "₹55/kg",
+    "recyclable": [
+      "Plastic body",
+      "Copper wiring",
+      "Circuit sheet"
+    ],
+    "nonRecyclable": [
+      "Damaged keys",
+      "Rubber membrane"
+    ]
+  },
+
+  "Charger": {
+    "wasteType": "Charger E-Waste",
+    "price": "₹50/kg",
+    "vendorRate": "₹40/kg",
+    "recyclable": [
+      "Copper wire",
+      "Metal pins",
+      "Plastic shell"
+    ],
+    "nonRecyclable": [
+      "Burnt adapter body",
+      "Damaged insulation"
+    ]
+  }
+}

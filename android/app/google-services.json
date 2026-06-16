@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718059480954",
+    "project_id": "econnect-final",
+    "storage_bucket": "econnect-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718059480954:android:4649b45f7a0bbca71a18c3",
+        "android_client_info": {
+          "package_name": "com.yourcompany.econnect_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyComs4rdKkpGtGthuMGORzm6tiOmsaM4gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
