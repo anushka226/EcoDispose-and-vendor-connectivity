@@ -216,10 +216,6 @@ EcoDispose/
 ├── 📄 README.md
 └── 📄 LICENSE
 
-<img width="738" height="1600" alt="img2" src="https://github.com/user-attachments/assets/59b26e65-733b-4275-bcba-7b9206e869ba" />
-<img width="738" height="1600" alt="img4" src="https://github.com/user-attachments/assets/26e20978-6427-4986-9605-3e5154c62a30" />
-<img width="738" height="1600" alt="img1" src="https://github.com/user-attachments/assets/4ed29caa-3396-43eb-849a-806a65047437" />
-
 A few resources to get you started if this is your first Flutter project:
 
 - [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
