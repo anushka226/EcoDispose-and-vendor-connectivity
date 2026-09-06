@@ -4,7 +4,8 @@
 
 # ♻️ ECODISPOSE
 ### AI-Powered Electronic Waste Disposal & Smart Recycling Ecosystem
-<img width="738" height="1600" alt="img4" src="https://github.com/user-attachments/assets/359093e0-77c2-49e9-9497-4abe1d3e2842" />
+<img width="400" height="600" alt="img4" src="https://github.com/user-attachments/assets/359093e0-77c2-49e9-9497-4abe1d3e2842" />
+<img width="400" height="600" alt="img1" src="https://github.com/user-attachments/assets/c327911e-4a50-470e-902e-2b40b60f68d5" />
 
 **Transforming E-Waste Management with Artificial Intelligence, Machine Learning & Intelligent Vendor Connectivity**
 
